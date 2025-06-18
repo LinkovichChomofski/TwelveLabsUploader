@@ -1,0 +1,5 @@
+[server]
+maxUploadSize = 102400
+
+[theme]
+base = "light"
